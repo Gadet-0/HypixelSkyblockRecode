@@ -7,3 +7,4 @@ All changes you want to make for the plugin must be made in this format:
 - Whenever you need to stop coding for that day, please make a commit with the changes you have done. 
 This is to help the Lead Developers track the progress you have made!
 To add your update to master/the servers create a Pull Request with the changes you have made(the todo).
+Maybe Adding More
